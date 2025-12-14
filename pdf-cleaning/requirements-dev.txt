@@ -1,0 +1,4 @@
+# 安裝指令 / Install with: pip install -r requirements-dev.txt
+
+# 測試工具 (Testing)
+pytest>=7.2              # 單元測試框架 / Unit testing framework

@@ -1,0 +1,8 @@
+# 安裝指令 / Install with: pip install -r requirements.txt
+
+# 必要套件 (Required)
+PyMuPDF>=1.23.0           # PDF 文字提取 / PDF text extraction via fitz
+
+# 可選套件 (Optional - 為未來功能預留)
+pandas>=2.0.0             # 資料處理與 CSV 匯出 / Data processing and CSV export
+
